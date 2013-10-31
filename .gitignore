@@ -9,4 +9,4 @@ application/logs/*
 !application/logs/.htaccess
 
 user_guide
-*.*~
+*~
