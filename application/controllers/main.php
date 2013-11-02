@@ -7,7 +7,6 @@ class Main extends CI_Controller {
 		$this->load->model("main_model");
 	}
 	
-	
 	public function index(){
 		$data['title'] = "Home";
 		$data['news'] = $this->main_model->get_news();
