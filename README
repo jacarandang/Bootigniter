@@ -1,4 +1,6 @@
 BOOTIGNITER
 Bootstrap + Code Igniter
 
+Hello World!
+
 Bootigniter by default uses bootigniter database. Table structure contained in sql/tables.sql. Sample data contained in sql/somedata.sql
